@@ -108,7 +108,7 @@ module.exports = configure(function (ctx) {
           warning: '#F2C037'
         }
       },
-      lang: 'pt-br',
+      // lang: 'pt-br',
       // iconSet: 'material-icons', // Quasar icon set
       // lang: 'en-US', // Quasar language pack
 
