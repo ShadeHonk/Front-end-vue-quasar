@@ -6,7 +6,7 @@
   "author": "Rafael <88169277+ShadeHonk@users.noreply.github.com>",
   "private": true,
   "scripts": {
-    "start": "npx quasar dev",
+    "start": "quasar dev",
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },
